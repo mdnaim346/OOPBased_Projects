@@ -1,0 +1,14 @@
+F:\Myclasses\my Work\OOP\SalesProduct\SalesProduct\bin\Debug\net8.0\SalesProduct.exe
+F:\Myclasses\my Work\OOP\SalesProduct\SalesProduct\bin\Debug\net8.0\SalesProduct.deps.json
+F:\Myclasses\my Work\OOP\SalesProduct\SalesProduct\bin\Debug\net8.0\SalesProduct.runtimeconfig.json
+F:\Myclasses\my Work\OOP\SalesProduct\SalesProduct\bin\Debug\net8.0\SalesProduct.dll
+F:\Myclasses\my Work\OOP\SalesProduct\SalesProduct\bin\Debug\net8.0\SalesProduct.pdb
+F:\Myclasses\my Work\OOP\SalesProduct\SalesProduct\obj\Debug\net8.0\SalesProduct.GeneratedMSBuildEditorConfig.editorconfig
+F:\Myclasses\my Work\OOP\SalesProduct\SalesProduct\obj\Debug\net8.0\SalesProduct.AssemblyInfoInputs.cache
+F:\Myclasses\my Work\OOP\SalesProduct\SalesProduct\obj\Debug\net8.0\SalesProduct.AssemblyInfo.cs
+F:\Myclasses\my Work\OOP\SalesProduct\SalesProduct\obj\Debug\net8.0\SalesProduct.csproj.CoreCompileInputs.cache
+F:\Myclasses\my Work\OOP\SalesProduct\SalesProduct\obj\Debug\net8.0\SalesProduct.dll
+F:\Myclasses\my Work\OOP\SalesProduct\SalesProduct\obj\Debug\net8.0\refint\SalesProduct.dll
+F:\Myclasses\my Work\OOP\SalesProduct\SalesProduct\obj\Debug\net8.0\SalesProduct.pdb
+F:\Myclasses\my Work\OOP\SalesProduct\SalesProduct\obj\Debug\net8.0\SalesProduct.genruntimeconfig.cache
+F:\Myclasses\my Work\OOP\SalesProduct\SalesProduct\obj\Debug\net8.0\ref\SalesProduct.dll
