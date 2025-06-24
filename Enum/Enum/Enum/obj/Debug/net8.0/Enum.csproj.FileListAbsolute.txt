@@ -1,0 +1,15 @@
+F:\Myclasses\my Work\OOP\Enum\Enum\Enum\bin\Debug\net8.0\Enum.exe
+F:\Myclasses\my Work\OOP\Enum\Enum\Enum\bin\Debug\net8.0\Enum.deps.json
+F:\Myclasses\my Work\OOP\Enum\Enum\Enum\bin\Debug\net8.0\Enum.runtimeconfig.json
+F:\Myclasses\my Work\OOP\Enum\Enum\Enum\bin\Debug\net8.0\Enum.dll
+F:\Myclasses\my Work\OOP\Enum\Enum\Enum\bin\Debug\net8.0\Enum.pdb
+F:\Myclasses\my Work\OOP\Enum\Enum\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+F:\Myclasses\my Work\OOP\Enum\Enum\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+F:\Myclasses\my Work\OOP\Enum\Enum\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+F:\Myclasses\my Work\OOP\Enum\Enum\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+F:\Myclasses\my Work\OOP\Enum\Enum\Enum\obj\Debug\net8.0\Enum.sourcelink.json
+F:\Myclasses\my Work\OOP\Enum\Enum\Enum\obj\Debug\net8.0\Enum.dll
+F:\Myclasses\my Work\OOP\Enum\Enum\Enum\obj\Debug\net8.0\refint\Enum.dll
+F:\Myclasses\my Work\OOP\Enum\Enum\Enum\obj\Debug\net8.0\Enum.pdb
+F:\Myclasses\my Work\OOP\Enum\Enum\Enum\obj\Debug\net8.0\Enum.genruntimeconfig.cache
+F:\Myclasses\my Work\OOP\Enum\Enum\Enum\obj\Debug\net8.0\ref\Enum.dll

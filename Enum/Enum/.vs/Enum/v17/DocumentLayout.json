@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Myclasses\\my Work\\OOP\\Enum\\Enum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE89C6CE-308D-422C-8E0F-58F25F764234}|Enum\\Enum.csproj|f:\\myclasses\\my work\\oop\\enum\\enum\\enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE89C6CE-308D-422C-8E0F-58F25F764234}|Enum\\Enum.csproj|solutionrelative:enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE89C6CE-308D-422C-8E0F-58F25F764234}|Enum\\Enum.csproj|f:\\myclasses\\my work\\oop\\enum\\enum\\enum\\enumexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE89C6CE-308D-422C-8E0F-58F25F764234}|Enum\\Enum.csproj|solutionrelative:enum\\enumexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnumExample.cs",
+              "DocumentMoniker": "F:\\Myclasses\\my Work\\OOP\\Enum\\Enum\\Enum\\EnumExample.cs",
+              "RelativeDocumentMoniker": "Enum\\EnumExample.cs",
+              "ToolTip": "F:\\Myclasses\\my Work\\OOP\\Enum\\Enum\\Enum\\EnumExample.cs",
+              "RelativeToolTip": "Enum\\EnumExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:24:33.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Myclasses\\my Work\\OOP\\Enum\\Enum\\Enum\\Program.cs",
+              "RelativeDocumentMoniker": "Enum\\Program.cs",
+              "ToolTip": "F:\\Myclasses\\my Work\\OOP\\Enum\\Enum\\Enum\\Program.cs",
+              "RelativeToolTip": "Enum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:18:51.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
